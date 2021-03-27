@@ -3,3 +3,6 @@
 ################################################################################
 
 /.vs
+/foto.bookstore/.vs/foto.bookstore
+/foto.bookstore/foto.bookstore/bin/Debug/netcoreapp3.1
+/foto.bookstore/foto.bookstore/obj
